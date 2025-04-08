@@ -1,4 +1,4 @@
-package org.example.cupcake;
+package org.vsprojects.cupcake;
 
 public abstract class IngredientDecorator implements Cake{
     protected final Cake cake;

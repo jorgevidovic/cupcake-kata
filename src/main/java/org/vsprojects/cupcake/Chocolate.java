@@ -1,4 +1,4 @@
-package org.example.cupcake;
+package org.vsprojects.cupcake;
 
 public class Chocolate extends IngredientDecorator{
     public Chocolate(Cake cake) {

@@ -1,4 +1,4 @@
-package org.example.cupcake;
+package org.vsprojects.cupcake;
 
 public class Cupcake implements Cake {
 

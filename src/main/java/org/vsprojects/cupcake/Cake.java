@@ -1,4 +1,4 @@
-package org.example.cupcake;
+package org.vsprojects.cupcake;
 
 public interface Cake {
     String getName();

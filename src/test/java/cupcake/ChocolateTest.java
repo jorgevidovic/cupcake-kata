@@ -1,8 +1,8 @@
 package cupcake;
 
-import org.example.cupcake.Cake;
-import org.example.cupcake.Chocolate;
-import org.example.cupcake.Cupcake;
+import org.vsprojects.cupcake.Cake;
+import org.vsprojects.cupcake.Chocolate;
+import org.vsprojects.cupcake.Cupcake;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
