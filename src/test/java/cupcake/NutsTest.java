@@ -31,6 +31,6 @@ public class NutsTest {
     @Test
     void nutsAfterChocolateShouldIncreasePrice() {
         Cake cake = new Nuts(new Chocolate(new Cupcake()));
-        assertEquals(1.2, cake.getPrice());
+        assertEquals(1.2, cake.getPrice(), 0.0001);
     }
 }
